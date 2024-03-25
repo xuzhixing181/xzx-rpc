@@ -4,7 +4,7 @@ import com.example.plusrpc.config.RpcConfig;
 import com.example.plusrpc.utils.ConfigUtils;
 
 /**
- * @author https://github.com/xuzhixing181
+ * @author  https://github.com/xuzhixing181
  */
 public class PlusConsumerExample {
 

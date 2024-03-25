@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * 静态代理: 为每个特定类型的接口或对象,编写一个实现类 ==> EmployeeStaticProxy
- * @author https://github.com/xuzhixing181
+ * @author  https://github.com/xuzhixing181
  */
 public class EmployeeStaticProxy implements EmployeeService {
     @Override

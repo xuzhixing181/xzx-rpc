@@ -7,7 +7,7 @@ import com.example.consumer.proxy.ServiceDynamicProxy;
 import com.example.consumer.proxy.ServiceProxyFactory;
 
 /**
- * @author https://github.com/xuzhixing181
+ * @author  https://github.com/xuzhixing181
  * description: mini版服务消费者示例
  */
 public class MiniConsumerExample {

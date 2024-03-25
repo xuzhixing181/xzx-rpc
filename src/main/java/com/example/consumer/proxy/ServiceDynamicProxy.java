@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 /**
  * 基于JDK实现动态代理: 根据要生成对象的类型，自动生成一个代理对象
  *      实现: 实现InvocationHandler接口,重写 invoke(Object proxy, Method method, Object[] args)方法
- * @author https://github.com/xuzhixing181
+ * @author  https://github.com/xuzhixing181
  */
 public class ServiceDynamicProxy implements InvocationHandler {
     @Override
